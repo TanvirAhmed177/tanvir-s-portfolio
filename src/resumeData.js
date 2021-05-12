@@ -83,15 +83,17 @@ let resumeData = {
       name: "Autorepair",
       description:
         "This project deals with some car repairing services with secure online payment option. Here, I used ReactJs ,React-Router, Firebase, MongoDB, Express.js, React Stripe.js and React-Bootstrap.",
-      imgurl: "https://i.ibb.co/DRGxCzF/autorepair.jpg",
+      imgurl:
+        "https://i.ibb.co/3fVjJBr/Fire-Shot-Capture-005-Am-I-Responsive-ami-responsivedesign-is.png",
       link: "https://autorepair-e6808.web.app/",
       git: "https://github.com/TanvirAhmed177/autorepair-client",
     },
     {
       name: "Cybershop",
       description:
-        "This project deals with the online electronic store to buy some good products easily from home with your secure online payment option. Here, I used ReactJs ,React-Router, Firebase, MongoDB, Express.js and React-Bootstrap.",
-      imgurl: "https://i.ibb.co/xhdT2j5/cybershop.jpg",
+        "This project is a online electronic product store to buy some electronic products with secure online payment option. Here, I used ReactJs ,React-Router, Firebase, MongoDB, Express.js and React-Bootstrap.",
+      imgurl:
+        "https://i.ibb.co/sW79Qjj/Fire-Shot-Capture-010-Am-I-Responsive-ami-responsivedesign-is.png",
       link: "https://cybershop-project.web.app/",
       git: "https://github.com/TanvirAhmed177/cybershop-client",
     },
@@ -108,8 +110,43 @@ let resumeData = {
       description:
         "This is a website about top soccer leagues all around the world. People can get to know about leagues detail and other stuff through this website. Here, I used ReactJs ,React-Router and React-Bootstrap.",
       imgurl: "https://i.ibb.co/6RSWPx8/soccer-sports.jpg",
-      link: "https://github.com/TanvirAhmed177/soccer-sports",
+      link: "https://soccer-sports.netlify.app/",
       git: "https://github.com/TanvirAhmed177/soccer-sports",
+    },
+  ],
+  blogs: [
+    {
+      imgUrl: "https://i.ibb.co/7J5dQpr/1-int2-Cu4g-DCW6-LIGr1cg-Kqg.jpg",
+      title:
+        "Some important methods of string you need to know to start with JavaScript",
+      desc:
+        "In JavaScript, string manipulation and modification is a key topic that every",
+      link:
+        "https://ahmed-tanvir-siddik.medium.com/some-important-topics-of-string-in-javascript-567f1a9507ab",
+    },
+    {
+      imgUrl: "https://i.ibb.co/9yDmSp6/1-m-Hz2-T5-Zmj-IHbrc-FXVp-Tpaw.jpg",
+      title: "Features of ES6 every Javascript developer should know",
+      desc:
+        "Javascript is worlds one of the popular programming languages. This language",
+      link:
+        "https://ahmed-tanvir-siddik.medium.com/features-of-es6-every-javascript-developer-should-know-8a3ac8be887d",
+    },
+    {
+      imgUrl: "https://i.ibb.co/BwWM3ZP/1-btkm4n8-ZLyv-DRl-UUXG4-GQ.jpg",
+      title: "Some best practice for beginner react developer",
+      desc:
+        "React is a javascript library which introduced in 2013. Its a library for user interface or UI components design.",
+      link:
+        "https://ahmed-tanvir-siddik.medium.com/some-best-practice-for-beginner-react-developer-12f88251dcbb",
+    },
+    {
+      imgUrl: "https://i.ibb.co/PFsLvgQ/1-Eiaq4l9qb-Rs-LRh-Wss-B4-Ssw.jpg",
+      title: "Top 10 Javascript Interview Questions And Answers",
+      desc:
+        "Javascript is one of the popular programming languages in the world. There are",
+      link:
+        "https://ahmed-tanvir-siddik.medium.com/top-10-javascript-interview-questions-and-answers-3bdd06c19615",
     },
   ],
   testimonials: [
