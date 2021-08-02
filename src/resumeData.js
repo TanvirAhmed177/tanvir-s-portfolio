@@ -92,8 +92,7 @@ let resumeData = {
       name: "Cybershop",
       description:
         "This project is a online electronic product store to buy some electronic products with secure online payment option. Here, I used ReactJs ,React-Router, Firebase, MongoDB, Express.js and React-Bootstrap.",
-      imgurl:
-        "https://i.ibb.co/sW79Qjj/Fire-Shot-Capture-010-Am-I-Responsive-ami-responsivedesign-is.png",
+      imgurl: "https://i.ibb.co/j45JS5G/Cybershop-New.png",
       link: "https://cybershop-project.web.app/",
       git: "https://github.com/TanvirAhmed177/cybershop-client",
     },
