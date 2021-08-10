@@ -83,7 +83,7 @@ let resumeData = {
       name: "iFocus",
       description:
         "This React application deals with some photography services with secure online payment option. Here, I used ReactJs, React-Router, Firebase, MongoDB, Express.js, React Stripe.js and React-Bootstrap.",
-      imgurl: "https://i.ibb.co/ZHgkyyF/iFocus.png",
+      imgurl: "https://i.ibb.co/G3Zs0xL/iFocus.png",
       link: "https://ifocus-ca499.web.app/",
       git: "https://github.com/TanvirAhmed177/iFocus-client",
     },
