@@ -80,13 +80,12 @@ let resumeData = {
   ],
   portfolio: [
     {
-      name: "Autorepair",
+      name: "iFocus",
       description:
-        "This project deals with some car repairing services with secure online payment option. Here, I used ReactJs ,React-Router, Firebase, MongoDB, Express.js, React Stripe.js and React-Bootstrap.",
-      imgurl:
-        "https://i.ibb.co/3fVjJBr/Fire-Shot-Capture-005-Am-I-Responsive-ami-responsivedesign-is.png",
-      link: "https://autorepair-e6808.web.app/",
-      git: "https://github.com/TanvirAhmed177/autorepair-client",
+        "This React application deals with some photography services with secure online payment option. Here, I used ReactJs, React-Router, Firebase, MongoDB, Express.js, React Stripe.js and React-Bootstrap.",
+      imgurl: "https://i.ibb.co/ZHgkyyF/iFocus.png",
+      link: "https://ifocus-ca499.web.app/",
+      git: "https://github.com/TanvirAhmed177/iFocus-client",
     },
     {
       name: "Cybershop",
